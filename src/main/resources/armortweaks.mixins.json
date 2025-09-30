@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.hallowed.armortweaks.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "armortweaks.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}
